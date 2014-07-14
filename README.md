@@ -24,6 +24,6 @@ get
 ---
 Gets the last n chat messages
   
-    /message historan get <channel> <n>
+    /message historian get <channel> <n>
     
     
